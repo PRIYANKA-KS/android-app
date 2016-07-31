@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Webcoops</string>
+    <string-array name="prods">
+        <item>Pen</item>
+        <item>Pencil</item>
+        <item>Books</item>
+    </string-array>
+    <string-array name="price">
+        <item>20</item>
+        <item>10</item>
+        <item>30</item>
+    </string-array>
+</resources>
